@@ -1,0 +1,73 @@
+Ammunition
+Armament
+Arms
+Arrows
+Assault rifle
+Atom bom
+Axe
+Bat
+Bayonet
+Bazooka
+Billy club
+Blackjack
+Blow pipe
+Bludgeon
+Bomb
+Boomerang
+Bow
+Brass knuckles
+Bullet
+Cannon
+Catapult
+Cleaver
+Cudgel
+Dagger
+Darts
+Epee
+Explosive
+Fire
+Firearm
+Foil
+Gas
+Grenade
+Handgun
+Harpoon
+Hatchet
+Howitzer
+Javelin
+Knife
+Lance
+Mace
+Machete
+Machine gun
+Mine
+Missile
+Musket
+Nuclear bomb
+Numchuck
+Ordinance
+Pepper spray
+Pistol
+Rapier
+Revolver
+Rifle
+Rocket
+Saber
+Scimitar
+Scythe
+Shillelagh
+Shotgun
+Sickle
+Stiletto
+Switchblade
+Sword
+Tank
+Taser
+Tear gas
+Tomahawk
+Torpedo
+Trident
+Truncheon
+Uzi
+Weapon
+Whip

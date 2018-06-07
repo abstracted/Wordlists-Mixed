@@ -1,0 +1,601 @@
+abdomen
+abomasum
+absorption
+accessory gland
+acetylcholine
+acoustic
+active transport
+adipose tissue
+adrenal cortex
+adrenal medulla
+albumin
+aldosterone
+alimentary
+alimentary canal
+alkaline
+alveolus
+amino acids
+amphibian
+amylases
+anaemia
+antagonistic muscles
+anterior
+anterior pituitary gland
+antibodies
+anticoagulant
+antidiuretic
+antidiuretic hormone
+antigens
+anus
+aorta
+apex
+appendage
+appendage
+aqueous humor
+aqueous humor
+arteriole
+arteriole
+artery
+artery
+articulate
+articulation
+articulation
+atlas
+atom
+atrioventricular valve
+atrium
+auditory ossicle
+autonomic nervous system
+axillary lymph node
+axis
+axon
+ball and socket joint
+barb
+barbules
+basement membrane
+basophil
+biceps
+bilateral
+bile
+binocular vision
+binomial
+blastocyst
+blind spot
+blood
+blood pressure
+body cavity
+bowman’s capsule
+brain stem
+breed
+bronchiole
+bronchus
+buccal
+callus
+canines
+carbohydrate
+cardiac cycle
+cardiac muscle
+cardiovascular system
+carnassial teeth
+carotid artery
+carpal
+cartilage
+cataract
+caudal
+caudal vena cava
+cell
+cell division
+cell inclusion
+cellular respiration
+central nervous system
+cephalic
+cerebellum
+cerebral cortex
+cerebrospinal fluid
+cerebrum
+cervical vertebrae
+cervix
+chemoreceptor
+chorionic gonadotrophin
+choroid
+chromosome
+chyle
+chyme
+cilium
+class
+clavicle
+clot
+coagulation
+coccygeal vertebrae
+coccyx
+cochlea
+collagen
+colon
+colostrum
+common bile duct
+compact bone
+conditioned reflex
+condyle
+cone
+congenital
+conjunctiva
+connective tissue
+constipation
+continuous breeding
+cornea
+coronary artery
+corpus luteum
+cortex
+costal
+cowper’s gland
+cranial
+cranial nerve
+cranium
+crop
+crop-milk
+cross section
+cryptorchidism
+cutaneous
+cytology
+cytosol
+dehydration
+denaturation
+dendrite
+dental formula
+dentine
+dermis
+diabetes insipidus
+diabetes mellitus
+diaphragm
+diaphysis
+diarrhoea
+diastema
+diastole
+diastolic blood pressure
+diffusion
+digestion
+digitigrade locomotion
+dilate
+diploid
+directional terms
+disaccharides
+distal
+diuretic
+dorsal
+duodenum
+echolocation
+effector
+egestion
+electrolyte
+electron microscope
+element
+embryo
+emulsification
+enamel
+endocrine gland
+endometrium
+endoplasmic reticulum
+endothelium
+enzyme
+eosinophil
+epidermis
+epididymis
+epiglottis
+epiphyseal line
+epiphyseal plate
+epiphysis
+epithelial tissue
+erythrocyte
+essential amino acids
+eustachian tube
+evolution
+excretion
+exocrine gland
+exocytosis
+expiration
+extension
+extracellular fluid
+facilitated diffusion
+fallopian tube
+fats
+feedback system
+femur
+fertilisation
+fetlock
+fibrin
+fibrinogen
+fibula
+filtrate
+flagellum
+flexion
+fluoroxylate
+foetus
+follicle
+follicle stimulating
+foramen
+foramen magnum
+fossa
+fovea
+functional caecum
+gall bladder
+gamete
+ganglion
+gas exchange
+gastric juice
+gene
+gestation
+girdle
+gizzard
+gland
+gliding joint
+glomerular capsule
+glomerulus
+glottis
+glucose
+glycerol
+glycogen
+goitre
+golgi complex apparatus
+gonads
+graafian follicle
+grey matter
+growth hormone
+haematocrit
+haematuria
+haemoglobin
+haemolysis
+haemorrhage
+haploid
+haversian canal
+haversian system
+heparin
+hepatic
+hepatic portal vessel
+hinge joint
+histamine
+hock
+homoiothermic
+hormone
+hormone 
+humerus
+hyperglycemia
+hypertension
+hyperthermia
+hypertonic
+hypotension
+hypotonic
+ileum
+immunity
+implantation
+impotence
+incisors
+induced ovulation
+inferior
+infertility
+inflammation
+ingestion
+inguinal
+inorganic
+insertion
+inspiration
+insulin
+intercostal muscles
+internal
+interstitial fluid
+intervertebral disc
+intestinal juice
+intracellular fluid
+invertebrates
+ion
+isotonic
+jejunum
+keel
+keratin
+kidney
+lachrymal gland
+lactation
+lacteal
+lacuna
+lamellae
+large intestine
+larynx
+lateral
+lens
+leukocyte
+ligament
+lipase
+lipid
+liver
+longitudinal
+lordosis response
+lumbar
+lumen
+lung
+luteinising hormone
+lymph
+lymph node
+lymphatic capillary
+lymphatic tissue
+lymphatic vessel
+lymphocyte
+lysosome
+macrophage
+mammary gland
+mandible
+marrow
+matrix
+maxilla
+medial
+mediastinum
+medulla
+medulla oblongata
+meiosis
+melanin
+melatonin
+membrane
+meninges
+mesentery
+metacarpals
+metastasis
+metatarsals
+microfilaments
+microtubule
+microvilli
+middle ear
+milk teeth
+minute volume
+mitochondrion
+mitosis
+molars
+monocyte
+monosaccharide
+morula
+mucus
+myelin
+nasal cavity
+negative feedback
+nephron
+nerve
+nerve impulse
+neuron
+neurotransmitter
+neutral fat
+neutrophil
+nictitating membrane
+normal saline
+nuclear membrane
+nucleolus
+nucleus
+nutrient
+oesophagus
+olfactory
+omasum
+open rooted teeth
+optic nerve
+orbit
+organ
+organelle
+organic
+organism
+origin
+osmosis
+osmotic pressure
+ossicle
+ossification
+otolith
+oval window
+ovarian cycle
+ovarian follicle
+ovary
+ovulation
+ovum
+oxyhaemoglobin
+oxytocin
+palate
+palmar
+pancreas
+pancreatic juice
+parasympathetic division
+parathyroid gland
+parathyroid hormone
+parotid gland
+parturition
+patella
+pathogen
+pectoral
+pelvic cavity
+pelvic girdle
+pelvis
+pepsin
+pericardial cavity
+pericardium
+periosteum
+peripheral
+peripheral nervous system
+peristalsis
+peritoneum
+permanent teeth
+peyer’s patches
+ph
+phagocytosis
+phalanges
+pharynx
+phospholipid bilayer
+phospholipids
+photoreceptor
+photosynthesis
+physiology
+pineal gland
+pinna
+pinocytosis
+pituitary gland
+pivot joint
+placenta
+plantar
+plantigrade locomotion
+plasma
+plasma membrane
+platelets
+pleura
+pleural cavity
+plexus
+poikilothermic
+polysaccharides
+preen
+premolars
+progesterone
+prolactin
+prostate gland
+proteases
+protein
+proximal
+pulmonary
+pulp cavity
+pulse
+pupil
+pus
+pyloric sphincter
+radius
+receptor
+red marrow
+reflex
+reflex arc
+refraction
+relaxin
+renal
+renal pelvis
+renal pyramid
+renal system
+reticulum
+retina
+ribosome
+rickets
+rod
+rostral
+rumen
+ruminant
+rumination
+sacrum
+sagittal plane
+sagittal section
+saliva
+salivary amylase
+saturated fat
+scapula
+sciatic nerve
+sclera
+seasonal breeding
+sebaceous gland
+sebum
+secretion
+semen
+semi-permeable membrane
+semicircular canals
+semilunar valve
+seminal vesicle
+seminiferous tubule
+sensory neuron
+serum
+sesamoid bones
+shock
+shoulder
+sinus
+skeletal muscle
+skull
+small intestine
+smooth muscle
+soft palate
+solution
+specific gravity
+sperm duct
+spermatic cord
+spermatozoon
+sphincter
+spinal cord
+spinal nerve
+spleen
+spongy bone
+squamous
+starch
+sterile
+sternum
+stifle
+stimulus
+stomach
+striated muscle
+subcutaneous
+submandibular gland
+substrate
+sulcus
+superficial
+suture
+sympathetic division
+synapse
+synapse
+synovial joint
+synovial joint
+system
+systemic circulation
+systole
+systolic blood pressure
+target cell
+tarsals
+tendons
+testis
+testosterone
+thoracic cavity
+thorax
+thymus gland
+thyroid gland
+thyroxine
+tibia
+tidal breathing
+tidal volume
+tissue
+tissue fluid
+total lung capacity
+trachea
+transverse
+triceps
+triglycerides
+trunk
+tympanic membrane
+ulna
+umbilical cord
+unguligrade locomotion
+urea
+ureter
+urethra
+uric acid
+urinalysis
+urine
+uterus
+vagina
+vagus nerve
+vane
+vas deferens
+vascular
+vaso dilation
+vasoconstriction
+vein
+velvet
+vena cava
+ventral
+ventricles
+venule
+vertebral canal
+vertebrates
+vesicles
+vestibular organ
+villus
+viscera
+visceral skeleton
+viscosity
+vital capacity
+vital capacity
+vitamin
+vitreous humor
+white matter
+yellow marrow
+zona pellucida
+zygote

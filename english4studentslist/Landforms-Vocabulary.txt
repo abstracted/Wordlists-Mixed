@@ -1,0 +1,183 @@
+alluvial fan
+arch
+archipelago
+te
+atoll
+badlands
+bar
+barrier island
+basin
+bay
+bayou
+beach
+bight
+bluff
+box canyon
+bowl
+brook
+butte
+caldera
+canal
+canyon
+cape
+cateract
+cave
+cavern
+channel
+chasm
+chimney
+cinder cone
+cirque
+cliff
+coast
+coastline
+col
+continent
+coral reef
+cove
+crag
+crater lake
+creek
+crest
+crevasse
+dale
+dell
+delta
+depression
+desert
+divide
+dome
+drift
+dune
+equator
+escarpment
+estuary
+falls
+fault
+firth
+fissure
+fjord
+foothills
+fork
+gap
+geology
+geomorphology
+geyser
+glacier
+glacier cave
+glen
+gorge
+grotto
+gulch
+gulf
+gully
+headland
+headwaters
+highland
+hill
+hillside
+hollow
+iceberg
+ice cliff
+ice field
+inlet
+island
+islet
+isthmus
+knob
+knoll
+lagoon
+lake
+lakebed
+latitude
+lava dome
+lava tube
+ledge
+loess
+longitude
+lowland
+mainland
+marsh
+meander
+mesa
+mid-ocean ridge
+moraine
+mound
+mountain
+mountain pass
+mountain peak
+mouth
+mud flat
+narrows
+natural arch
+neck
+oasis
+ocean
+oceanic trench
+overhang
+overlook
+oxbow lake
+pass
+peak
+peninsula
+plain
+plateau
+playa
+pond
+point
+prairie
+promontory
+range
+rapids
+ravine
+reef
+ria
+ridge
+rift valley
+rill
+rise
+river
+riverbed
+river delta
+rivulet
+rock
+salt marsh
+sandbar
+sand dune
+scarp
+scree
+sea
+sea cave
+seashore
+shallows
+shoal
+shore
+shoreline
+slope
+slough
+sound
+source
+spit
+spring
+strait
+stream
+summit
+surf
+swamp
+tableland
+tar pit
+terrace
+terrain
+tidal basin
+topography
+tributary
+tundra
+u-shaped valley
+vale
+valley
+vent
+volcano
+waterfall
+watershed
+wetland
+yardang

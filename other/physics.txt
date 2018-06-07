@@ -1,0 +1,378 @@
+absolute humidity
+absolute magnitude
+absolute scale
+absolute zero
+acceleration
+accuracy
+amplitude
+compound machines
+constructive interference
+convection
+convection current
+crest
+critical thinking
+destructive interference
+diffraction
+dispersion
+displacement
+doppler effect
+efficiency
+electromagnetic
+force
+free fall
+frequency
+heat
+heat engine
+inertia
+infrasound
+intensity
+interference
+kinetic energy
+kinetic friction
+length
+lens
+light ray
+longitudinal wave
+magnification
+mass
+mechanical advantage
+mechanical energy
+mechanical wave
+medium
+momentum
+motion
+period
+photon
+pitch
+potential energy
+power
+precision
+prism
+projectile motion
+radar
+radiation
+ratio
+reaction
+reflection
+refraction
+refrigerant
+repel
+repulsive
+resistance
+resistivity
+resistor
+resonance
+scalar
+scattering
+science
+scientific law
+scientific method
+scientific notation
+scientific theory
+scintillation counter
+screw
+second law of thermodynamics
+semiconductor
+series circuit
+sight
+significant figure
+simple machine
+slope
+solar cell
+solar energy
+solar heater
+solar radiation
+solution
+sonar
+sound
+sound wave
+specific heat
+spectrum
+speed
+standing wave
+static electricity
+static friction
+strain
+stress
+superposition
+surface
+switch
+system
+technology
+temperature
+tensile strength
+tension
+terminal
+terminal velocity
+thermal
+thermal conduction
+thermal equilibrium
+thermodynamics
+thermometer
+Thomas Edison
+thrust
+time
+torque
+tracer
+transfer
+transformation
+transformer
+transmission
+transmit
+transmutation
+transverse
+transverse wave
+trough
+turbine
+ultrasound
+ultraviolet
+ultraviolet light
+ultraviolet radiation
+vacuum
+variable
+vector
+velocity
+vibration
+virtual image
+visible
+visible light
+vision
+volt
+voltage
+volume
+watt
+wave
+wave-particle duality
+wavelength
+wedge
+weight
+wheel
+wheel and axle
+wind power
+work
+X ray
+acceleration adiabatic cooling
+adiabatic heating
+air mass
+allotropic forms
+alpha particle
+alternating current
+amp
+ampere
+angular acceleration
+angular displacement
+angular velocity
+astronomical unit
+atom
+atomic 
+atomic number
+atomic weight
+axis
+background radiation
+balanced forces
+balmer series
+barometer
+beat
+beta particle
+binding energy
+black hole
+blackbody radiation
+bohr model
+boiling point
+boundary
+cathode rays
+centigrade
+centrifugal force
+centripetal force
+chain reaction
+circular motion
+compression
+compressive stress
+condensation
+condensation nuclei
+condensation point
+conduction
+control rods
+conventional current
+coulomb
+covalent bond
+covalent compound
+critical angle
+critical mass
+curvilinear motion
+cycle
+de-acceleration
+decibel scale
+dew
+diffuse reflection
+direct current
+direct proportion
+distance
+echo
+elastic strain
+electric circuit
+electric current
+electric generator
+electrical conductors
+electrical energy
+electrical force
+electrical insulators
+electrical nonconductors
+electrical resistance
+electrolyte
+electromagnet
+electromagnetic force
+electromagnetic induction
+electromagnetic waves
+electron
+electron configuration
+electron current
+electron pair
+electron volt
+electronegativity
+electrostatic charge
+element
+energy
+escape velocity
+fluids
+formula 
+fracture strain
+freezing point
+friction
+fuel rod
+fundamental charge
+fundamental frequency
+fundamental properties
+gamma ray
+gases
+greenhouse effect
+ground state
+half-life
+hertz
+horsepower
+hypothesis
+impulse
+impulsive force
+incandescent
+incident ray
+infrasonic
+insulators
+intermolecular forces
+internal energy
+inverse proportion
+ionization
+ionized
+isotope
+joule
+kepler
+kilocalorie
+kilogram
+latent heat
+light-year
+line spectrum
+liquids
+liter
+longitudinal waves
+loudness
+luminosity
+luminous
+magnetic domain
+magnetic field
+magnetic poles
+magnetic reversal
+magnitude
+mass defect
+mass number
+matter
+melting point
+metal
+meter
+millibar
+miscible fluids
+mixture
+model
+mole
+molecular 
+natural frequency
+negative ion
+net force
+noise
+normal
+nuclear energy
+nuclear fission
+nuclear force
+nuclear fusion
+nuclear reactor
+nucleons
+nucleus
+ohm
+orbital
+origin
+oscillatory motion
+periodic wave
+permeability
+phase
+phase change
+photoelectric effect
+photons
+physical change
+plasma
+plastic strain
+polaroid
+positive ion
+pressure
+primary coil
+projectile
+proof
+properties
+proportionality constant
+pulse
+quantum mechanics
+quantum numbers
+radiant energy
+radioactive decay
+radioactivity
+rarefaction
+real image
+rectilinear motion
+reflected ray
+relative humidity
+restoring force
+resultant force
+retardation
+reverberation
+saturated air
+saturated solution
+scalar quantity
+scientific principle
+second
+secondary coil
+semiconductors
+shear stress
+simple pendulum
+solenoid
+solids
+sonic boom
+standing waves
+steam-point
+super-cooled
+superconductors
+supersaturated
+tensional stress
+thermal capacity
+thermal expansion
+transverse waves
+ultrasonic
+unbalanced forces
+uniform acceleration
+uniform speed
+uniform velocity
+unpolarized light
+vapor
+vector quantity
+voltage drop
+wave mechanics
+wave motion
+wave period
+wave velocity
+weightlessness

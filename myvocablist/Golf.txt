@@ -1,0 +1,339 @@
+Accolade
+Ace
+Amateur
+Applause
+Approach
+Architect
+Aspect
+Association
+Assurance
+Attraction
+Average
+Avoid
+Awesome
+Back nine
+Back swing
+Backspin
+Balance
+Ball marker
+Best ball
+Bet
+Bingo-bango-bungo
+Birdie
+Bleachers
+Blind
+Bogie
+Budget
+Bunker
+Caddy
+Cap
+Card
+Career
+Cart
+Celebrity
+Challenge
+Champ
+Charge
+Cheer
+Chip shot
+Cinch
+Club
+Club face
+Club-head
+Clubhouse
+Colleague
+Commitment
+Competition
+Competitor
+Compulsion
+Confidence
+Configuration
+Connection
+Consistent
+Consume
+Contour
+Control
+Conventional
+Cost
+Country club
+Course
+Credit
+Crowd
+Cut
+Degree
+Design
+Determination
+Difficulty
+Discouragement
+Distance
+Diverse
+Diversion
+Divot
+Dogleg
+Double bogey
+Downswing
+Drive
+Driver
+Driving range
+Drop
+Duffer
+Eagle
+Eighteen holes
+Elevation
+Elite
+Embedded
+Ensure
+Entertainment
+Examine
+Expanse
+Expensive
+Experience
+Factor
+Fairway
+Feature
+Fees
+Finish
+Flag
+Flight
+Flub
+Follow-through
+Fore
+Foursome
+Front nine
+Frustration
+Fun
+Furrow
+Gadget
+Gallery
+Game
+Gear
+Generate
+Gimme
+Gizmo
+Glove
+Goal
+Golf bag
+Golf cap
+Golf cart
+Golf shirt
+Golf widow
+Grand Slam
+Graphite (shaft)
+Green
+Greens
+Greens fees
+Greens keeper
+Grip
+Grit
+Grooves
+Growth
+Guest
+Hack
+Hacker
+Handicap
+Hat
+Hazard
+Heartbreak
+Hole-in-one
+Hollow back
+Hook
+Hose
+Hustler
+Hybrid
+Impact
+Implication
+Implicit
+Inclement
+Incline
+Initiative
+Insignia
+Instruction
+Insurance
+Intensity
+Interference
+Intimidating
+Irons
+Jaunty
+Joy
+Judgment
+Keen
+Lay out
+Leader board
+Leisure
+Length
+Lesson
+Lie
+Limbs
+Links
+Locale
+Loft
+Low gross
+Low lying
+Low net
+Luxury
+Magic
+Manicured lawn
+Market
+Masters
+Match play
+Membership
+Memorable moment
+Memorize
+Men
+Moisture
+Mulligan
+Nassau
+Natural
+Nineteenth hole
+Nontransferable
+Novice
+Numerous
+Observant
+Obstacle
+Odyssey
+Official
+One-stroke
+Opportunity
+Option
+Out-of-bounds
+Overshoot
+Par
+Par-three
+Pass-through
+Passion
+Peak
+Penalty
+Performance
+Pin
+Pitch
+Placement
+Player
+Playoff
+Position
+Possibility
+Posture
+Practice
+Precision
+Pressure
+Pro tour
+Professional
+Proper
+Public course
+Pull cart
+Putt
+Putter
+Quality
+Quest
+Quiet
+Rain delay
+Rain out
+Rake
+Range
+Rank
+Rating
+Recognition
+Regional
+Regulation
+Relaxation
+Replicate
+Reputation
+Respect
+Restriction
+Resume
+Rim
+Rivalry
+Roll
+Roster
+Rotation
+Rough
+Round
+Ruff
+Sand trap
+Sand wedge
+Score
+Scorecard
+Seven-iron
+Shaft
+Shag
+Shank
+Short course
+Shot
+Shotgun start
+Sideways
+Sight
+Signature
+Single
+Sink
+Slacks
+Slice
+Slope
+Snowman
+Sod
+Spectators
+Squeeze
+Stance
+Standard
+Stimpmeter
+Strain
+Stroke
+Stroll
+Stymie
+Subsoil
+Success
+Survival
+Sweet spot
+Swing
+Swipe
+System
+Talent
+Tap-in
+Tee
+Tense
+Terminology
+Terrain
+Thirteenth hole
+Threesome
+Title
+Topspin
+Tour
+Trail
+Trajectory
+Trap
+Triple bogey
+Trophy
+Twosome
+Umbrella
+Unique
+Unlikely
+Unplayable
+Unpredictable
+Uphill
+Urge
+US Golf Association
+Variety
+Vary
+Venue
+Vibe
+Victory
+Warning
+Water hazard
+Waterproof
+Weather
+Wedge
+Weekends
+Whack
+Whirlpool
+Wiff
+Win
+Wind breaker
+Women
+Wood
+Woods
+Wrist
+Yardage
+Year-round
+Yell
+Yield
+Youth
+Zeal
+Zone

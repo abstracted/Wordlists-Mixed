@@ -1,0 +1,73 @@
+admiral butterfly
+ant
+aphid
+armyworm
+backswimmer
+bedbug
+bee
+beetle
+bug
+bumblebee
+butterfly
+carpenter ant
+caterpillar
+chrysalis
+cicada
+cockroach
+cricket
+cutworm
+damselfly
+dragonfly
+earwig
+egg
+fire ant
+firefly
+flea
+fly
+gnat
+grasshopper
+grub
+hairstreak
+harlequin bug
+honey bee
+hornet
+housefly
+imago
+insect
+jumping bean
+junebug
+katydid
+ladybug
+lacewing
+larva
+leafhopper
+lice
+locust
+louse
+maggot
+mantid
+mealworn
+metamorphosis
+midge
+monarch
+morpho
+mosquito
+moth
+nymph
+pupa
+roach
+silkworm
+silverfish
+skipper
+springtail
+stonefly
+swallowtail
+termite
+thrip
+tsetse fly
+viceroy butterfly
+walkingstick
+wasp
+waterbug
+weevil
+yellowjacket

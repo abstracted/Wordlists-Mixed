@@ -1,0 +1,51 @@
+barth sextic
+boy's surface
+catalan's minimal surface
+catenoid
+cayley cubic
+clebsch cubic
+cone
+cone
+costa's minimal surface
+cross-cap
+cylinder
+dini's surface
+dupin cyclide
+ellipsoid
+ellipsoid
+enneper surface
+gyroid
+helicoid
+hyperbolic paraboloid
+hyperboloid
+hyperboloid of one sheet
+hyperboloid of two sheets
+klein bottle
+lidinoid
+möbius strip
+oblate spheroid
+oloid
+paraboloid
+paraboloid
+plane
+pseudosphere
+pseudospherical
+quadric surfaces
+quadrics
+real projective plane
+riemann's minimal surface
+right conoid
+roman surface
+saddle tower
+scherk surface
+schwarz minimal surface
+sphere
+sphere
+sphericon
+spheroid
+spheroid
+torus
+torus
+torus
+triply periodic minimal surface
+whitney umbrella

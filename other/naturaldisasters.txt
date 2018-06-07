@@ -1,0 +1,46 @@
+avalanche
+blackout
+blizzard
+bushfire
+cataclysm
+cold wave
+cyclone
+disaster
+drought
+dust storm
+earthquake
+erosion
+eruption
+famine
+fault
+fire
+flood
+forest fire
+hail
+hailstorm
+heat wave
+hurricane
+ice storm
+lahar
+landslide
+lava
+lightning
+magma
+mudflow
+nimbus
+permafrost
+rainstorm
+sandstorm
+snow storm
+snowstorm
+storm
+thunderstorm
+tornado
+tremor
+tsunami
+twister
+volcano
+whirlpool
+whirlwind
+wildfire
+windstorm

@@ -1,0 +1,73 @@
+acute triangle
+annulus
+arc
+bipyramid
+circle
+concave polygon
+cone
+convex polygon
+crescent
+cube
+cuboid
+curve
+cylinder
+decagon
+disc
+dodecahedron
+dot
+ellipse
+ellipsoid
+equilateral triangle
+gnomon
+helix
+heptagon
+hexagon
+hexahedron
+hyperboloid
+hypersphere
+icosahedron
+interval
+isosceles triangle
+kite
+klein bottle
+line
+line segment
+lozenge
+bius strip
+nonagon
+obtuse triangle
+octagon
+octahedron
+orb
+oval
+parabaloid
+parallelepiped
+parallogram
+pentagon
+plane
+platonic solid
+point
+polygon
+polyhedra
+prism
+pyramid
+ray
+rectangle
+regular polygon
+rhombus
+right triangle
+scalene triangle
+sector
+semicircle
+shape
+shapeless
+sphere
+spheroid
+square
+star
+tesseract
+torus
+trapezium
+trapezoid
+triangle
+wedge

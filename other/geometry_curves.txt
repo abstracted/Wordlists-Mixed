@@ -1,0 +1,129 @@
+Cubic plane curve
+Quartic plane curve
+Rational curves
+Conic sections
+Unit circle
+Unit hyperbola
+Folium of Descartes
+Cissoid of Diocles
+Conchoid of de Sluze
+Right strophoid
+Semicubical parabola
+Serpentine curve
+Trident curve
+Trisectrix of Maclaurin
+Tschirnhausen cubic
+Witch of Agnesi
+Ampersand curve
+Bean curve
+Bicorn
+Bow curve
+Bullet-nose curve
+Cruciform curve
+Deltoid curve
+Devil's curve
+Hippopede
+Kampyle of Eudoxus
+Kappa curve
+Lemniscate of Booth
+Lemniscate of Gerono
+Lemniscate of Bernoulli
+Limaçon
+Cardioid
+Limaçon trisectrix
+Trifolium curve
+Quintic of l'Hospital
+Astroid
+Atriphtaloid
+Nephroid
+Quadrifolium
+Epicycloid
+Epispiral
+Epitrochoid
+Hypocycloid
+Lissajous curve
+Poinsot's spirals
+Rational normal curve
+Rose curve
+Bicuspid curve
+Cassini oval
+Cassinoide
+Cubic curve
+Elliptic curve
+Watt's curve
+Butterfly curve
+Elkies trinomial curves
+Hyperelliptic curve
+Klein quartic
+Classical modular curve
+Bolza surface
+Macbeath surface
+Polynomial lemniscate
+Fermat curve
+Sinusoidal spiral
+Superellipse
+Hurwitz surface
+Bowditch curve
+Brachistochrone
+Butterfly curve
+Catenary
+Clélies
+Cochleoid
+Cycloid
+Horopter
+Isochrone
+Isochrone of Huygens
+Tautochrone
+Isochrone of Leibniz
+Isochrone of Varignon
+Lamé curve
+Pursuit curve
+Rhumb line
+Spirals
+Archimedean spiral
+Cornu spiral
+Cotes' spiral
+Fermat's spiral
+Galileo's spiral
+Hyperbolic spiral
+Lituus
+Logarithmic spiral
+Nielsen's spiral
+Syntractrix
+Tractrix
+Trochoid
+Bézier curve
+Splines
+B-spline
+Ogee
+Loess curve
+Lowess
+Polygonal curve
+Maurer rose
+Reuleaux triangle
+Bézier triangle
+Caustic 
+Catacaustic
+Diacaustic
+Cissoid
+Conchoid
+Evolute
+Glissette
+Inverse curve
+Involute
+Isoptic
+Orthotomic
+Negative pedal curve
+Pedal curve
+Parallel curve
+Radial curve
+Roulette
+Strophoid
+Conchospiral
+Helix
+Tendril perversion
+Hemihelix
+Seiffert's spiral
+Slinky spiral
+Twisted cubic
+Viviani's curve

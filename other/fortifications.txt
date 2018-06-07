@@ -1,0 +1,22 @@
+armour
+bailey
+barbican
+battlement
+castle
+chain mail
+citadel
+city wall
+curtain wall
+drawbridge
+fortification
+fortified tower
+gate
+gauntlet
+keep
+lamellar armour
+moat
+motte-and-bailey
+murder-hole
+palisade
+portcullis
+shield

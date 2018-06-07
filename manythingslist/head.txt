@@ -1,0 +1,22 @@
+bald head
+cheek
+chin
+dimple
+ear
+eye
+eyebrow
+forehead
+freckles
+gums
+head
+lip
+lower jaw
+mole
+mouth
+nose
+pimple
+temple
+tongue
+tooth
+upper jaw
+wrinkles

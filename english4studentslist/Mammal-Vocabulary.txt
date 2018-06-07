@@ -1,0 +1,220 @@
+aardvark
+african wild cat
+agouti
+alpaca
+american bison
+anteater
+antelope
+ape
+arctic fox
+arctic wolf
+armadillo
+aye-aye
+baboon
+badger
+bandicoot
+bat
+bear
+beaver
+bilby
+bison
+black bear
+black bear hamster
+blue whale
+bobcat
+bongo
+bonobo
+bowhead whale
+brown bear
+buffalo
+bull
+bushbaby
+camel
+cape buffalo
+capybera
+caracal
+caribou
+carnivora
+cat
+cattle
+cavy
+cheetah
+chimipanzee
+chinchilla
+chipmunk
+coati
+collared peccary
+colugo
+cougar
+cow
+coyote
+coypu
+deer
+dhole
+dingo
+dog
+dolphin
+donkey
+dromedary
+dugong
+duck-billed platypus
+echidna
+ekaltadelta
+eland
+elephant
+elephant seal
+elk
+ermine
+ferret
+fin whale
+flying squirrel
+fossa
+fox
+fruit bat
+galagos
+gazelle
+gerbil
+gibbon
+giraffe
+gnu
+goat
+gopher
+gorilla
+gray whale
+great apes
+grizzly bear
+groundhog
+guinea pig
+hamster
+hares
+harp seal
+hedgehog
+hippo
+hippopotamus
+horse
+howler monkey
+human being
+humpback whale
+hyena
+hyrax
+impala
+insectivores
+jaguar
+javelina
+kangaroo
+killer whale
+kinkajou
+koala
+kudu
+lagomorph
+lemming
+lemur
+leopard
+lion
+llama
+longhorn
+loris
+lynx
+macaque
+mammal
+mammoth
+manatee
+mandrill
+marine mammals
+marmoset
+marmot
+marsupial
+mastadon
+meerkat
+mink
+mice
+mole
+mongoose
+monkey
+moose
+mouse
+musk ox
+muskrat
+mustelids
+nabarlek
+naked mole-rat
+narwhal
+numbat
+nutria
+ocelot
+okapi
+onager
+opossum
+orangutan
+orca
+oryx
+otter
+ox
+panda
+pangolin
+panther
+pig
+pika
+pinnipeds
+placental
+platypus
+polar bear
+porcupine
+porpoise
+primates
+pronghorn
+puma
+quagga
+quokka
+quoll
+rabbit
+raccoon
+rat
+red kangaroo
+red panda
+reindeer
+rhino
+rhinoceros
+right whale
+ring-tailed lemur
+ringtail possum
+river otter
+rodent
+seal
+sea otter
+serval
+sheep
+shrew
+siamang
+skunk
+sloth
+spiny anteater
+squirrel
+sugar glider
+tamarin
+tapir
+tarsier
+tasmanian devil
+tasmanian tiger
+three-toed sloth
+tiger
+treeshrew
+ungulates
+vampire bat
+virginia opossum
+wallaby
+walrus
+warthog
+weasel
+weddell seal
+whale
+wildebeest
+wolverine
+woodland caribou
+wolf
+wombat
+woodcheck
+yak
+zebra
+zorilla
+zorro

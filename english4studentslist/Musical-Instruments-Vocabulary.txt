@@ -1,0 +1,111 @@
+accordion
+acoustic guitar
+aeolian harp
+bagpipes
+balalaika
+banjo
+bass
+bass drum
+bassoon
+bell
+bongo drum
+bow
+brass instruments
+bugle
+calliope
+carillon
+castanets
+celesta
+cello
+chimes
+clarinet
+classical guitar
+clavichord
+concertina
+conch
+conga drum
+cornet
+cowbell
+cymbals
+double bass
+drum
+drumsticks
+dulcimer
+electric guitar
+electric organ
+english horn
+euphonium
+fiddle
+flugelhorn
+flute
+french horn
+glockenspiel
+gong
+grand piano
+guitar
+hammered dulcimer
+harmonica
+harpsichord
+harp
+hurdy gurdy
+instruments
+jaw harp
+s harp
+kazoo
+kettle drum
+keyboard
+lute
+lyre
+mallets
+mandolin
+maracas
+marimba
+melodeon
+musical instruments
+musical saw
+oboe
+ocarina
+organ
+pan pipes
+penny whistle
+percussion
+piano
+piccolo
+pipe organ
+pump organ
+rainstick
+rattle
+recorder
+saw
+saxophone
+sitar
+slide whistle
+snare drum
+spinet
+spoons
+steel drum
+sousaphone
+steel guitar
+strings
+synthesizer
+tabla
+tambourine
+thumb piano
+timpani
+tin whistle
+tom-tom
+triangle
+trombone
+trumpet
+tuba
+tubular bells
+ukulele
+upright piano
+vibraphone
+viola
+violin
+washboard
+whistle
+wind instruments
+xylophone
+zither

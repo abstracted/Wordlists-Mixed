@@ -1,0 +1,5 @@
+dime
+half dollar
+nickel
+penny
+quarter

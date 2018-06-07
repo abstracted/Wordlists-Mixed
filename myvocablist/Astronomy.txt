@@ -1,0 +1,326 @@
+Aberration
+Absolute
+Acceleration
+Achievement
+Administration
+Adventure
+Aerodynamics
+Aerogel
+Aerospace
+Agency
+Air Force
+Alien
+Altitude
+Ambient
+Ammonia
+Analysis
+Anomaly
+Apex
+Aphelion
+Apogee
+Apotheosis
+Arc
+Ascendant
+Asteroid
+Astronaut
+Astronomer
+Astronomy
+Atmosphere
+Aurora borealis
+Axis
+Azimuth
+Beyond
+Big Bang theory
+Binary
+Black hole
+Blazing
+Bodies
+Buffet
+Burn
+Burst
+Byproduct
+Carbon dioxide
+Celestial
+Centrifugal force
+Ceremony
+Challenger
+Chaos
+Circular
+Cislunar
+Climate
+Clouds
+Cold
+Collision
+Colossal
+Combust
+Comet
+Commander
+Communication
+Composition
+Conjunction
+Consequence
+Constellation
+Contribution
+Corona
+Cosmic
+Cosmology
+Cosmonaut
+Crater
+Crew
+Crowd
+Cusp
+Danger
+Data
+Declination
+Degree
+Density
+Deploy
+Descendant
+Descent
+Disaster
+Discovery
+Disintegrate
+Display
+Distant
+Documentation
+Domination
+Double star
+Drift
+Dust
+Dust
+Dwarf planet
+Eclipse
+Ecliptic
+Edmond
+Fireball
+Flight
+Fluorocarbon content
+Force field
+Formation
+Fossil fuel
+Fragment
+Full moon
+Galactic
+Galaxy
+Galileo
+Gamma rays
+Gaseous
+Geocentric
+Geophysics
+Global
+Glory
+Gravitation
+Gravity
+Gyroscope
+Halley
+Hazard
+Head-quarters
+Heat
+Heavenly body
+Hemisphere
+Herschel (Alexander and Caroline)
+Historic
+Honor
+Horizon
+Horizon
+Horoscope
+Hubble
+Hydraulic
+Hypothesis
+Icy
+Ignite
+Ignition
+Illumination
+Image
+Immediate
+Impact
+Impulse
+Industry
+Inquiry
+Inspection
+Instruments
+Intergalactic
+Interplanetary. Interstellar
+Investigation
+Ionosphere
+Ions
+Jettison
+Journey
+Jupiter
+Justification
+Kilometers
+Kuiper Belt
+Laboratory
+Launch
+Launch pad
+Legacy
+Liftoff
+Light years
+Luminosity
+Lunar
+Magnetic
+Magnitude
+Maneuver
+Map
+Mare
+Mars
+Marvel
+Measurements
+Meteor
+Meteorite
+Methane
+Milky Way
+Mission
+Module
+Molecules
+Moons
+Nadir
+NASA
+Navigation
+Nebula
+Newton
+Node
+North Star
+Northern Lights
+Nova
+Nutation
+Objective
+Objects
+Observable
+Operation
+Orbit
+Origin
+Orrery
+Outer space
+Overlap
+Ozone
+Parallax
+Particles
+Path
+Penetrate
+Penumbra
+Perigee
+Phase
+Pioneer
+Planet
+Planetarium
+Planetary
+Polestar
+Positions
+Praise
+Probe
+Productive
+Program
+Propellant
+Propulsion
+Protection
+Proton
+Prototype
+Public
+Pulsar
+Quarter moon
+Quasar
+Quintessence
+Radiation
+Rays
+Re-entry
+Reflector
+Reject
+Relativity
+Reliability
+Rendezvous
+Research
+Responsibility
+Restriction
+Revolution
+Rings
+Rocket
+Rocks
+Rotation
+Satellite
+Scientific
+Scientist
+Seismometer
+Sensation
+Session
+Sextant
+Shooting star
+Shuttle
+Significant
+Simulation
+Sir Issac
+Size
+Sky
+Soar
+Solar system
+Solstice
+Space
+Space craft
+Spatial
+Spectrometry
+Spectrum
+Spherical
+Spinning
+Star dust
+Stars
+Stellar
+Storms
+Stratosphere
+Subatomic
+Success
+Sunspot
+Super nova
+Support
+Sustain
+Swirling
+Syzygy
+Technology
+Telescope
+Temperature
+Terra
+Thrust
+Tide
+Track
+Tragedy
+Training
+Trajectory
+Transmissions
+Transport
+Turbulence
+Twinkle
+Ultraviolet rays
+Umbra
+Unique
+Universe
+Unknown
+Unstable
+Uranus
+Vaporize
+Variation
+Variety
+Vast
+Vehicle
+Velocity
+Vent
+Vibration
+Vicinity
+View
+Violence
+Virtual
+Visible
+Vision
+Volcanic
+Voluntary
+Voyage
+Waning moon
+Warming
+Wavelength
+Waxing moon
+Weather
+Weightlessness
+Whirl
+Zeal
+Zenith
+Zero
+Zodiac
+Zone

@@ -1,0 +1,172 @@
+absorbance
+absorption
+acoustical
+activity
+albedo
+alloy
+angular
+area
+atomic
+atomic 
+binary phase
+biomaterials
+birefringence
+boiling point
+bonding
+brittleness
+bulk modulus
+capacitance
+castability
+ceramic
+chemical
+chemical potential
+coefficient
+color
+composite
+compressibility
+compressive
+computational
+concentration
+corrosion
+creep
+critical
+cryoscopic
+crystallography
+density
+diamagnetism
+dielectric
+dielectric strength
+distribution
+ductility
+durability
+ebullioscopic
+efficacy
+elasticity
+electric charge
+electric field
+electric potential
+electrical
+electrical conductivity
+electrical impedance
+electrical resistivity
+electromagnetic
+electronic
+embodied energy
+embodied water
+emission
+emissivity
+enthalpy
+entropic
+entropy
+environmental
+eutectic point
+fatigue limit
+flammability
+flash point
+flexibility
+flexural modulus
+flexural strength
+flow rate
+fluidity
+fracture
+frequency
+fugacity
+glass
+hardness
+heat
+hygroscopy
+hysteresis
+impedance
+inductance
+intensity
+internal energy
+internal pressure
+intrinsic 
+inversion
+irradiance
+isotopes
+kinetics
+length
+location
+luminance
+luminescence
+luminosity
+luster
+machinability
+magnetic
+magnetic field
+magnetic flux
+magnetostriction
+malleability
+manufacturing
+mass
+materials
+mechanical
+melting point
+modulus
+moment
+momentum
+nanomaterials
+neutron
+opacity
+optical
+particle
+permeability
+permittivity
+ph
+phase
+photosensitivity
+piezoelectric
+plasticity
+point
+polymer
+potential
+pressure
+processing
+properties
+pyrophoricity
+quality
+radiance
+radiological
+reactivity
+reflectivity
+refractive
+resilience
+resistance
+resistivity
+restitution
+scattering
+semiconductor
+shear modulus
+shear strength
+size
+solubility
+sound reflection
+speed
+speed of sound
+spin
+stiffness
+strength
+structure
+surface
+surface energy
+surface roughness
+surface tension
+synthesis
+temperature
+tensile
+tension
+thermal
+thermal conductivity
+thermal diffusivity
+thermal expansion
+thermodynamics
+toughness
+transmittance
+triple point
+vapor
+velocity
+viscosity
+volume
+wave
+weight

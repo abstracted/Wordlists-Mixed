@@ -1,0 +1,302 @@
+Account
+Accounting
+Accrue
+Accumulate
+Acquisition
+Activity
+Adjustable
+Adjustment
+AMEX
+Amortization
+Annual
+Annuity
+Appraisal
+Arbitrage
+Arrangement
+Arrears
+Assets
+Authentic
+Authorization
+Automated
+Average
+Averaging
+Balance
+Balloon payment
+Bank
+Bankrupt
+Barter
+Bear
+Beneficiary
+Bid
+Blue chip
+Bond
+Bracket
+Broker
+Brokerage
+Bull
+Buying
+Buyout
+Calculation
+Call
+Capital gain
+Cartel
+Cashier
+Certificate
+Certified
+Chart
+Churn
+Circulation
+Clearinghouse
+Collateral
+Collect
+Commission
+Commodity
+Common stock
+Compensation
+Competitor
+Compound
+Conglomerate
+Consolidation
+Consortium
+Consumer
+Convertible
+Correction
+Cost
+Counter
+Countersign
+Credit
+Currency
+Custodian
+Deal
+Debenture
+Debit
+Debt
+Deductible
+Deduction
+Default
+Delinquency
+Demand
+Depository
+Depreciation
+Depression
+Deregulation
+Designation
+Devaluation
+Differential
+Discount
+Discretionary account
+Distribution
+Diversify
+Dividend
+Dow Jones Average
+Downturn
+Draft
+Driven
+Dump
+Earn
+Economy
+Electronic
+Elimination
+Embezzlement
+Endorse
+Enterprise
+Entity
+Equity
+Escrow
+ESOP (Employees Stock Ownership Plan)
+Estimation
+Evaluation
+Exceed
+Exchange rate
+Exorbitant
+Expectation
+Extortion
+Failure
+Falling price
+Federal
+Fees
+Fiduciary
+Finance
+Fiscal
+Fixed
+Float
+Foreclosure
+Forfeiture
+Frugality
+Fulfillment
+Fund
+Funds
+Futures
+Gain
+GDP
+Gold
+Government
+Growth
+Guarantee
+Guaranty
+High-interest
+Hiring
+Identification
+Illegal
+Imprint
+Income
+Index
+Industrial
+Inflated price
+Insider information
+Insolvent
+Installment
+Institution
+Institutional trading
+Insufficient
+Intangible
+Interest
+Interest-bearing
+Intermediary
+Intervention
+Invalidate
+Investment
+IRA
+Issue
+Joint account
+Junk bond
+Keogh plan
+Kiting
+Laundering
+LBO (leveraged buyout)
+Lending rate
+Leverage
+Liability
+Lien
+Liquidity
+Long-term
+Low risk
+Lucrative
+Maintain
+Margin
+Market
+Maturity
+Member
+Mercantile
+Merger
+Money
+Monopoly
+Municipals
+Mutual funds
+Negotiable
+Non-speculative
+Note
+NYSE
+Obligation
+Odd lot
+Operation
+Option
+OTC (over the counter)
+Overcompensate
+Oversight
+Ownership
+Par value
+Payment
+Peaks
+Percent
+Planning
+Pledge
+Points
+Portfolio
+Practice
+Predetermine
+Preferred stock
+Premium
+Prepayment penalty
+Principal
+Product
+Profit
+Progressive
+Promissory note
+Public
+Quality
+Qualm
+Quantity
+Questionable
+Quick
+Quittance
+Quote
+Raid
+Rally
+Ramification
+Rate
+Ratio
+Recession
+Record
+Recoup
+Recourse
+Redemption
+Reduction
+Regulation
+Reimburse
+Reliability
+Reserves
+Retirement
+Risk
+Rumors
+Sale
+Savings
+Securities
+Select
+Sell-off
+Selling
+Shares
+Short term
+Shylock
+Slump
+Solvency
+Speculate
+Speculative
+Split
+Stagflation
+Stock split
+Stocks
+Subscription
+Summary
+Supply and demand
+Surety
+Surplus
+Survivorship
+Swap
+Takeover
+Tax shelter
+Tax year
+Tax-exempt bond
+Taxes
+Technical
+Tender
+Thrifts
+Ticker tape
+Trade
+Transaction
+Transfer
+Transferable
+Treasury bill
+Trends
+Uncollected
+Underwriter
+Unit
+Unofficial
+Unregulated
+Unsecured
+Untaxed
+Usury
+Utilities
+Valuable
+Value
+Variable
+Vault
+Venture
+Void
+Voucher
+Wage
+Warrant
+Wide-ranging
+Withdrawal
+Yield
+Zero-coupon bond

@@ -1,0 +1,14 @@
+ash
+beech
+birch
+conifer
+fir
+larch
+maple
+oak
+pine
+spruce
+sycamore
+weeping willow
+willow
+yew

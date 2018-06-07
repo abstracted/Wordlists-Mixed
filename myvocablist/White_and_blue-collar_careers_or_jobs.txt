@@ -1,0 +1,83 @@
+Accounting
+Aerospace
+Agent
+Architecture
+Assembly line
+Automotive
+Banker
+Beautician
+Biochemistry
+Biotechnology
+Bookkeeper
+Brokerage
+Business
+Carpentry
+Chiropractic
+Composer
+Computers
+Construction
+Contractor
+Counselor
+Criminal justice
+Curator
+Dental professional
+Designer
+Diplomacy
+Education
+Elevator repair
+Engineering
+Entrepreneur
+Export
+Farmer
+Fashion
+Fire-protection
+Fisherman
+Food manufacturing
+Geology
+Government
+Health care
+Health science
+High tech
+Home furnishings
+Homemaker
+Human resources
+Import
+Insurance
+Investor
+Jeweler
+Laborer
+Lawyer
+Library science
+Lumberjack
+Maintenance
+Marketing
+Medicine
+Military
+Newscaster
+Nurse
+Officials
+Optician
+Owners
+Physician
+Pilot
+Psychologist
+Public administration
+Real estate agent
+Retail
+Sales
+Social worker
+Software
+Taxation
+Teacher
+Technical classes
+Textiles
+Therapist
+Toy design
+Trader
+Transportation
+Venture capitalism
+Veterinarian
+Wholesale industry
+Wine-making
+Woodworking
+Zoologist

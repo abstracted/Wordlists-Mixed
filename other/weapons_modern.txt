@@ -1,0 +1,115 @@
+anti-aircraft
+anti-submarine
+anti-tank
+apc
+armor piercing
+armored car
+arquebus
+artillery
+artillery gun
+assault rifle
+assult rifle
+atomic bomb
+attack helicopter
+attack jet
+autocannon
+automatic shotgun
+ballistic missle
+battle rifle
+bayonet
+bazooka
+beretta
+blade
+blunderbuss
+bolt-action
+bomb
+bomber
+bullet
+c4
+cannon
+carbine
+carronade
+chain gun
+chemical weapon
+claymore
+cobalt bomb
+colt
+combat
+combat vehicle
+cruise missle
+dirty bomb
+doomsday device
+electromagnetic bomb
+explodeing
+falconet
+fighter jet
+flamethrower
+fully automatic
+gatling
+gattling
+glock
+grenade
+grenade launcher
+guided missle
+gun
+gunship
+halftrack
+handgun
+heavy machine gun
+howitzer
+hydrogen bomb
+ied
+jet
+knife
+laser bomb
+lever-action
+long gun
+machete
+machine gun
+marksman rifle
+metal storm
+military
+mine
+minigun
+missile
+mitrailleuse
+morter
+multiple barrel
+musket
+musketoon
+napalm bomb
+neutron bomb
+nordenfelt
+nuclear bomb
+nuke
+piercing
+pipe bomb
+pistol
+razor
+recoilless rifle
+revolver
+rifle
+rocket
+rocket launcher
+rpg
+shotgun
+silencer
+smg
+smith & wesson
+smoke bomb
+sniper
+sniper rifle
+striker jet
+submachine
+submachine gun
+sword
+tank
+tank gun
+tankdozer
+taser
+tomahawk missile
+torpedo
+turret
+uzi
+war drone
+warhead

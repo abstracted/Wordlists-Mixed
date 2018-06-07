@@ -1,0 +1,87 @@
+aerodynamics
+agronomy
+anatomy
+anthropology
+archaeology
+astronomy
+atmospheric sciencecs
+bacteriology
+biochemistry
+biology
+biophysics
+botany
+cartography
+chemistry
+climatology
+computer science
+cosmology
+criminology
+dermatology
+developmental biology
+earth sciences
+ecology
+economics
+embryology
+entomology
+epidemiology
+ergonomics
+ethnology
+evolutionary biology
+forestry
+genetics
+genomics
+geology
+geophysics
+gerontology
+glaciology
+hematology
+herpetology
+histology
+horticulture
+hydrology
+ichthyology
+immunology
+inorganic chemistry
+kinesiology
+linguistics
+marine biology
+materials science
+mechanics
+metallurgy
+meteorology
+microbiology
+mineralology
+molecular biology
+morphology
+neurology
+neuroscience
+nuclear physics
+nutrition
+oceanography
+oncology
+optics
+organic chemistry
+ornithology
+paleontology
+parasitology
+pathology
+petrology
+physics
+physiology
+political science
+psychology
+quantum chemistry
+quantum physics
+radiology
+robotics
+seismology
+sociobiology
+sociology
+taxonomy
+tectonics
+thermodynamics
+toxicology
+virology
+volcanology
+xenobiology
+zoology

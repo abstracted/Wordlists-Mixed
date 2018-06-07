@@ -1,0 +1,51 @@
+aluminium
+asbestos
+brass
+bronze
+carbon steel
+cast iron
+cement
+ceramic
+clay
+coating
+cobalt
+compost
+concrete
+copper
+ductile iron
+fertilizer
+fiber
+foam core
+glass
+hardboard
+iron
+latex
+lead
+leather
+lime
+magnesium
+metal
+nickel
+niobium
+paper
+plastic
+polymer
+polyurethane
+polyvinyl
+primer
+reinforced
+resin
+sealant
+slab
+soil
+solder
+stainless
+steel
+textile
+thermoplastic
+tile
+titanium
+tungsten
+wire
+wood
+zinc

@@ -1,0 +1,117 @@
+alpine
+arctic
+avalanche
+balaclava
+barometer
+below zero
+bitter cold
+black ice
+bleak
+blizzard
+brisk
+candle
+centigrade
+chill
+chills
+chilly
+climate
+clouds
+cocoon
+cold
+cold snap
+coldest
+cool
+crystals
+daylight
+dew point
+drafty
+dreary
+droplet
+elevation
+fahrenheit
+fire
+fireplace
+firewood
+flurries
+fog
+forecast
+freeze
+freezing
+freezing rain
+frigid
+frost
+frostbite
+frostbitten
+frosty
+frozen
+gale
+glacial
+glaciation
+glacier
+gust
+gusty
+hail
+hailstone
+heat
+hemisphere
+hibernate
+ice
+ice cap
+ice caps
+ice scraper
+ice skates
+ice storm
+ice-boating
+ice-skating
+iceberg
+icicle
+icy
+igloo
+inclement
+melt
+melting
+moisture
+moisturize
+north wind
+overcast
+pinecone
+polar
+quake
+refrigeration
+season
+showers
+ski
+skiing
+sled
+sleet
+slide
+slip
+slippery
+slush
+snow
+snowball
+snowboard
+snowbound
+snowfall
+snowflake
+snowflakes
+snowman
+snowstorm
+snowy
+solstice
+storm
+subzero
+temperatures
+thaw
+thermometer
+tundra
+umbrella
+warmth
+weather
+wind
+wind chill
+windy
+winter
+wintertime
+wintry
+zero degrees

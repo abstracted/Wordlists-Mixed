@@ -1,0 +1,66 @@
+2d polymer
+3d polymer
+apollonian gasket
+apollonian sphere packing
+blancmange curve
+blancmange curve
+brownian motion
+brownian motion
+cantor dust
+cantor set
+cantor tesseract
+circle inversion fractal
+de rham curve
+diffusion-limited aggregation
+douady rabbit
+dragon curve
+feigenbaum attractor
+fibonacci word fractal
+flame fractal
+gosper curve
+gosper island
+h-fractal
+hexaflake
+hilbert curve
+hénon map
+ikeda map attractor
+iterated function system
+jerusalem cube
+julia set
+koch curve
+koch curve
+koch snowflake
+l-system
+lichtenberg figure
+lorenz attractor
+lyapunov fractal
+lévy c curve
+mandelbrot set
+mandelbrot tree
+mandelbulb
+menger sponge
+moore curve
+multiplicative cascade
+n-flake
+pascal triangle
+peano curve
+penrose tiling
+percolation cluster
+percolation cluster hull
+percolation theory
+pinwheel tiling
+pythagoras tree
+random walk
+rauzy fractal
+rössler attractor
+sierpinski carpet
+sierpinski triangle
+sierpiński arrowhead curve
+sierpiński curve
+smith–volterra–cantor set
+takagi curve 
+triflake
+vicsek fractal
+von koch curve
+weierstrass function
+z-order curve

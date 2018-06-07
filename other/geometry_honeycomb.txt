@@ -1,0 +1,27 @@
+bitruncated cubic
+cantellated cubic
+cantitruncated alternated cubic
+cantitruncated cubic
+elongated alternated cubic
+elongated triangular prismatic
+gyrated tetrahedral-octahedral
+gyrated triangular prismatic
+gyroelongated alternated cubic
+gyroelongated triangular prismatic
+hexagonal prismatic
+omnitruncated cubic
+omnitruncated triangular-hexagonal prismatic
+quarter cubic
+rectified cubic
+rhombitriangular-hexagonal prismatic
+runcinated alternated cubic
+runcitruncated cubic
+snub square prismatic
+snub triangular-hexagonal prismatic
+tetrahedral-octahedral
+triangular prismatic
+triangular-hexagonal prismatic
+truncated alternated cubic
+truncated cubic
+truncated hexagonal prismatic
+truncated square prismatic

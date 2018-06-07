@@ -1,0 +1,13 @@
+acclivity
+declivity
+doldrums
+equinox
+estuary
+fallow
+littoral
+maritime
+peninsula
+ridge
+solstice
+tributary
+watershed

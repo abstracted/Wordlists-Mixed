@@ -1,0 +1,213 @@
+Aircraft carrier
+Airplane
+Airship
+Ambulance
+Amphibian
+Argosy
+Ark
+Auto-bus
+Automobile
+Balloon
+Barge
+Battleship
+Beach buggy
+Bicycle
+Bike
+Biplane
+Blimp
+Boat
+Bomber
+Boxcar
+Brigantine
+Buckboard
+Buggy
+Bulldozer
+Cab
+Cable car
+Caboose
+Caisson
+Camion
+Camper
+Canoe
+Car
+Caravan
+Cargo ship
+Carriage
+Carrier
+Cart
+Catamaran
+Chopper
+Clipper
+Coach
+Container ship
+Craft
+Crop duster
+Cruiser
+Cycle
+Delivery truck
+Dhow
+Dinghy
+Dirigible
+Dirt bike
+Dive-bomber
+Dogsled
+Dory
+Dragster
+Dray
+Dune buggy
+Eighteen-wheeler
+Elevated
+Express train
+Feet
+Ferry
+Fighter plane
+Fire engine
+Fishing boat
+Flatbed
+Float
+Forklift
+Freight car
+Freighter
+Frigate
+Funicular
+Galleon
+Garbage truck
+Glider
+Go-kart
+Golf cart
+Gondola
+Grader
+Gurney
+Hack
+Hand truck
+Handcar
+Hay wagon
+Hearse
+Helicopter
+High-altitude reconnaissance plane
+Hog
+Hook and ladder
+Hot rod
+Hot-air balloon
+Houseboat
+Hovercraft
+Hydroplaneiceboat
+Jalopy
+Jet
+Jitney
+Jumbo jet
+Junk
+Kayak
+Ketch
+Landau
+Launch
+Lift
+Limousine
+Liner
+Litter
+Locomotive
+Lorry
+Luge
+Milk train
+Mobile home
+Monorail
+Montgolfier
+Moped
+Motorbike
+Motorboat
+Motorcycle
+Mountain bike
+Moving van
+Narrowboat
+Ocean liner
+Off-road vehicle
+Omnibus
+Paddle wheeler
+Paddy wagon
+Passenger train
+Patrol car
+Pickup
+Pirogue
+Pontoon
+Powerboat
+Pram
+Punt
+Quad bike
+Racing car
+Raft
+Reconnaissance plane
+Rickshaw
+Rig
+Roadster
+Rowboat
+RV
+Sailboat
+Schooner
+Scooter
+Scow
+Scull
+Seaplane
+Sedan
+Ship
+Shopping cart
+Shuttle
+Skateboard
+Skiff
+Sled
+Sleigh
+Sloop
+Snowmobile
+Speedboat
+Sports car
+Spy plane
+Squad car
+Stagecoach
+Station wagon
+Steam roller
+Steamer
+Streetcar
+Stretcher
+Stroller
+Submarine
+Subway
+Sulky
+Surrey
+Tandem bike
+Tanker
+Taxi
+Ten-speed
+Tender
+Toboggan
+Tow truck
+Town car
+Tractor
+Trail bike
+Trailer
+Train
+Tram
+Transport
+Travois
+Trawler
+Tricycle
+Troika
+Trolley
+Truck
+Tugboat
+Ultra-light
+Underground
+Unicycle
+Van
+Vaporetto
+Vehicle
+Vessel
+Wagon
+Water wagon
+Whaler
+Wheelbarrow
+Wheelchair
+Wiki
+Wrecker
+Xebec
+Yacht
+Yawl
+Zeppelin

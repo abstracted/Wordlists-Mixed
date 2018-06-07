@@ -1,0 +1,181 @@
+air conditioner
+appliances
+attic
+awning
+back door
+baluster
+backyard
+barbecue
+baseboard
+basement
+bathroom
+bathtub
+beam
+bedroom
+blinds
+broom
+carpet
+carport
+ceiling
+cellar
+chimney
+closet
+clothes dryer
+clothes washer
+column
+concrete
+cornice
+counter
+cupboard
+curtain rod
+curtains
+dining room
+dish washer
+doghouse
+door
+door bell
+doorknob
+door jamb
+doorway
+dormer
+downspout
+downstairs
+drain
+drapes
+driveway
+dryer
+duct
+dustpan
+eaves
+electrical outlet
+electrical system
+entrance
+entry
+entryway
+family room
+fan
+faucet
+fence
+fenced yard
+fireplace
+floor
+foundation
+frame
+front door
+furnace
+furniture
+fuse box
+gable
+garage
+garage door
+garage door opener
+garbage can
+garden
+garden shed
+gate
+girder
+greenhouse
+gutters
+hall
+hall closet
+hallway
+hamper
+heater
+hinge
+home
+hose
+house
+inglenook
+insulation
+jamb
+key
+kitchen
+ladder
+lamp
+lanai
+laundry
+laundry room
+lawnmower
+library
+light
+light switch
+linen closet
+lintel
+living room
+lock
+lumber
+mailbox
+mantle
+mat
+mirror
+mop
+newel
+nook
+nursery
+overhang
+painting
+paneling
+pantry
+patio
+picture
+picture frame
+plumbing
+pool
+porch
+portico
+quilt
+railing
+rake
+range
+recreation room
+roof
+room
+rug
+sash
+screen door
+shed
+shelf
+shelves
+shingle
+shower
+shutters
+siding
+sill
+sink
+skylight
+sliding glass door
+soffit
+steps
+staircase
+stairs
+storage shed
+storm door
+stove
+swimming pool
+threshhold
+throw rug
+toilet
+trash can
+trellis
+trim
+tub
+upstairs
+vacuum cleaner
+venetian blinds
+vase
+vent
+wainscotting
+walkway
+wall
+wall-to-wall carpet
+washer
+washing machine
+waste basket
+water heater
+weather stripping
+welcome mat
+window
+window pane
+window sill
+wood stove
+yard

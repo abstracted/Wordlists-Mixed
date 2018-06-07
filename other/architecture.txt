@@ -1,0 +1,225 @@
+abacus
+accolade
+aisle
+apron
+apse
+arcade
+arch
+architrave
+arris
+arrowslit
+articulation
+ashlar
+atlas
+atrium
+attic
+bahut
+balconet
+ball flower
+baluster
+banister
+bar-stayed girder
+bargeboard
+barrel vault
+bartizan
+basement
+basilica
+batement lights
+batter
+battlement
+bay window
+bays
+belfry
+belvedere
+bond
+bossage
+bossing
+boutant
+bracket
+bressummer
+brise soleil
+bullseye window
+bulwark
+buttress
+cancellus
+canopy
+cantilever
+capital
+capstone
+caryatid
+casement window
+cella
+chalcidicum
+chancel
+chandrashala
+chimera
+chimney
+chresmographion
+cincture
+cinque cento
+cippus
+circulation
+cleithral
+clerestory
+coffer
+colarin
+colonnade
+column
+compluvium
+coping
+corbel
+corinthian order
+cornice
+cresting
+cross springer
+crypto-porticus
+cuneus
+cupola
+cyrto-style
+diastyle
+diaulos
+diazoma
+dikka
+dipteral
+dodecastyle
+doric order
+dormer
+dosseret
+double-depth plan
+dromos
+entablature
+entasis
+ephebeum
+epinaos
+estrade
+eustyle
+facade
+fanlight
+fascia
+feretory
+flushwork
+flying buttress
+flying rib
+foot-stall
+footprint
+formeret
+frieze
+gable
+gablets
+gadrooning
+galletting
+gambrel
+gargoyle
+gazebo
+geison
+geodesic dome
+hip roof
+hyphen
+imperial roof decoration
+ionic order
+jagati
+jettying
+keystone
+kiln
+lacunar
+latticework
+light
+lightning rod
+lintel
+loculus
+loggia
+lunette
+mandapa
+mansard
+mansard roof
+maqsurah
+marriage stone
+mascaron
+meander
+mihrab
+minaret
+modillion
+molding
+monotriglyph
+mosaic
+mullion
+muqarnas
+mutule
+narthex
+nave
+newel
+niche
+oculus
+oillets
+onion dome
+order
+orthostates
+orthostyle
+parapet
+parclose screen
+pavilion
+pedestal
+pediment
+pelmet
+pendentive
+peripteral
+peristasis
+peristyle
+phiale
+piano nobile
+pier
+pilaster
+planceer
+planchier
+plate girder
+plinth
+poppyheads
+portcullis
+porte-cochã¨re
+portico
+prick post
+prostyle
+pseudodipteral
+pteroma
+pycnostyle
+pylon
+quadriporticus
+quoin
+rake
+rear vault
+return
+revolving door
+rib vault
+ridge board
+roof comb
+rotunda
+sash
+screens passage
+scroll
+shingles
+sommer
+spandrel
+spere
+spire
+springer
+squinch
+squint
+steeple
+sunburst
+systyle
+tabernacle
+timber framing
+tomb
+trabeated arch
+tracery
+transom
+truss
+turret
+tympanum
+undercroft
+ventilation shaft
+vierendeel truss
+volute
+voussoir
+walls
+wing

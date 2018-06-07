@@ -1,0 +1,143 @@
+Accountant
+Aerospace
+Agent
+Amateur
+Architect
+Assembly line peson
+Assistant
+Auto mechanics
+Baby sitter
+Banker
+Beautician
+Biochemist
+Biotechnology
+Blacksmith
+Blue-collar job
+Bookkeeper
+Broker
+Business
+Caddy
+Carpenter
+Caterer
+Chemist
+Chiropractor
+Clerk
+Clown
+College administrator
+Composer
+Computer specialist
+Conductor
+Construction worker
+Contractor
+Cook
+Counselor
+Craftsman
+Craftswoman
+Criminal justice
+Curator
+Dancer
+Delivery person
+Dentist
+Designer
+Diplomacy
+Director
+Diver
+Doctor
+Dog walker
+Doorman
+Draftsman
+Driver
+Educator
+Elevator repair
+Employee
+Employer
+Engineering
+Entrepreneur
+Entrepreneur
+Farmer
+Fashion
+Fashion designer
+Firefighter
+Fisherman
+Florist
+Food manufacturer
+Funeral director
+Gardener
+Geologist
+Golfer
+Government worker
+Guard
+Health professional
+Health science
+Helper
+Home furnishings
+Homemaker
+Human resources
+Import
+Jeweler
+Laborer
+Landscaper
+Lawyer
+Library science
+Lumberjack
+Maintenance worker
+Manager
+Marketing
+Medical field
+Military
+Minister
+Newscaster
+Nurse
+Nurse
+Official
+Optician
+Organizer
+Owner
+Painter
+Pastor
+Physician
+Pilot
+Postal worker
+Preacher
+Priest
+Professional
+Psychologist
+Public accountant
+Public administrator
+Quilter
+Rabbi
+Railroad worker
+Real estate agent
+Real estate professional
+Retail sales
+Salesman
+Salesman
+Saleswoman
+Saleswoman
+Seamstress
+Secretary
+Sewer
+Social worker
+Software
+Tailor
+Taxation
+Teacher
+Teacher of technical classes
+Technology scientist
+Textiles
+Therapist
+Toy designer
+Trader
+Transportation
+University professor
+Valet
+Venture capitalist
+Veterinarian
+Violinist
+White collar career
+Wholesaler
+Wine-maker
+Woodworking
+Writer
+Youth advisor
+Zoologist

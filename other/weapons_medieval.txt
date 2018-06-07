@@ -1,0 +1,91 @@
+ahlspiess
+arbalest
+axe
+ballista
+bardiche
+battering-ram
+battle-axe
+bec de corbin
+bill
+bludgeon
+bombard
+bow
+cannon
+caravel
+carrack
+catapult
+chakram
+club
+cog
+crossbow
+culverin
+dagger
+falchion
+fire ship
+flail
+flanged mace
+francisca
+galleon
+galley
+glaive
+goedendag
+guandao
+guisarme
+halberd
+hand cannon
+hellburner
+horseman's pick
+hwacha
+junk
+kama
+katana
+knife
+kunai
+lance
+lochaber axe
+longbow
+longsword
+lucerne hammer
+mace
+man catcher
+mangonel
+maul
+meteor hammer
+military fork
+mongol bow
+morning star
+mortar
+musket
+nzappa zap
+onager
+partisan
+pernach
+petrary
+pike
+plançon a picot
+polearm
+quarterstaff
+ranseur
+sabre
+scythe
+sharur
+shestophor
+shortsword
+shuriken
+sickle
+sling
+sovnya
+spear
+spetum
+staff
+staff sling
+sword
+swordstaff
+throwing spear
+throwing weapon
+trebuchet
+turtle ship
+ulfberht
+voulge
+war-hammer
+war-scythe

@@ -1,0 +1,199 @@
+16bit
+2d
+3d
+3d glitch
+8bit
+abstract
+accidental art
+acuity enhancement
+after-image
+analog glitch
+analog video distortion
+analog video feedback
+ascii art
+ascii glitch
+avidemux
+blurry
+breathing
+breathing effect
+breathing walls
+broken art
+bump map
+bump map distortion
+bump map glitch
+camera obscura
+circuit bent console
+circuit bent game
+circuit-bending
+code art
+code glitch
+color enhanced
+color glitch
+color replacement
+color shifting
+compressed art
+compression glitch
+crt
+crt glitch
+data bending
+data glitch
+datamoshing
+decoding glitch
+depth perception
+diffraction
+diffraction effect
+diffusion light
+digital artifact
+digital effect
+displacement
+displacement map
+displacement svg
+dissociative
+dissociative visual
+distorted
+distorted pattern
+distorted scanner
+distorted sculptures
+dithered
+dithering
+double vision
+effect
+encoding glitch
+environmental cubism
+environmental fractal
+environmental fractal facades
+environmental fractal forms
+environmental orbism
+environmental patterning
+extrude
+extrusion
+extrusion art
+extrusion glitch
+facades
+field of view distortion
+film distortion
+film scratch
+flashing effect
+flowing
+flowing effect
+flowing visual
+flowing visuals
+fluid
+fov distortion
+fractal
+fractalized
+fractured
+fragmented
+fragmented art
+frame tearing
+generative
+generative 2d
+generative 3d
+generative art
+generative glitch
+glitch
+hallucination
+hazy
+hex glitch
+hex malfunction
+hexfiend
+image compression
+image repetition
+image warp
+imaginings
+informatic opacity
+ink smudge
+intricate distortion
+inverted
+invisible
+jittery-visual
+landscape distortion
+light diffraction
+liquid art
+liquid glitch
+lossy image
+low poly
+macropsia
+magnetic distortion
+magnified
+malfunction
+melting
+melting effect
+melting glitch
+melting image
+melting vision
+micropsia
+mirror feedback
+mirror illusion
+misalignment
+misregistration
+morphing
+morphing 3d
+morphing geometry
+morphing shape
+morphing visual
+motion trail
+obscured
+optical illusion
+oversaturated
+particle 3d
+particle art
+particle emitter
+particle glitch
+particles
+pattern
+pattern displacement
+pattern glitch
+pelopsia
+perspective distortion
+perspective hallucinations
+perspective warping
+pixel drifter
+pixelated
+point cloud
+point cloud wave
+psychedlic
+recursion
+recursion effect
+repetition
+ripple displacement
+ripple effect
+rom glitch
+rorschach
+scanlines
+scanner glitch
+scenery slicing
+screen tearing
+sculptures distorted
+sculptures glitch
+shattered image
+symmetrical texture repetition
+sync-corruption
+tape glitch
+teleopsia
+texture distortion
+texture glitch
+trail effects
+translucent
+transparent
+tv-fuzz
+vector displacement
+vhs
+vhs distortion
+vhs glitch
+vhs tearing
+vibrating vision
+video distortion
+video feedback
+video toaster
+video warp
+visual distortion
+visual drifting
+visual snow
+visual tearing
+visual tracers
+warp effect
+wave warp
+white-noise
+wireframe-3d
+z-fighting

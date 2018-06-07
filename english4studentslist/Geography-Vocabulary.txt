@@ -1,0 +1,102 @@
+africa
+altitude
+analemma
+antarctica
+antarctic circle
+antipodes
+arctic circle
+area
+asia
+atlas
+australia
+azimuth
+bathymetric map
+border
+capital
+cartographer
+cartography
+chart
+city
+compass rose
+continent
+contour line
+country
+degree of latitude
+degree of longitude
+earth
+east
+eastern hemisphere
+elevation
+equator
+europe
+geographic coordinates
+geography
+global
+globe
+gps
+great circle
+hemisphere
+idl
+international date line
+island
+key
+kilometers
+land
+latitude
+legend
+longitude
+magnetic pole
+map
+map-maker
+map-making
+mercator projection
+meridian
+miles
+mountain
+mountain range
+nation
+nautical chart
+north
+northeast
+northern hemisphere
+northwest
+north america
+north magnetic pole
+north pole
+ocean
+parallel
+peak
+pole
+political map
+prime meridian
+projection
+ratio
+region
+relief map
+river
+road atlas
+rose
+scale
+scale bar
+sea
+sea level
+south
+southeast
+southwest
+south america
+southern hemisphere
+south magnetic pole
+south pole
+street map
+territory
+title
+topographic map
+topography
+tributary
+tropic of cancer
+tropic of capricorn
+tropics
+weather map
+west
+western hemisphere
+world
